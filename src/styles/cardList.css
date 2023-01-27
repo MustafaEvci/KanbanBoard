@@ -1,0 +1,26 @@
+.cardComponent{
+}
+.container{
+    border-top: 5px outset;
+
+}
+.yearCard{
+    margin-right:40px
+}
+.cardHeader{
+    justify-Content:space-between;
+    align-items:center;
+    padding-left:8px;
+}
+.cardHeader .cardListP{
+    font-size: 14;
+    font-weight:20;
+    color:#71718f;
+}
+.cardListHeader{
+width: 250px;
+height: auto;
+border-radius: 5px;
+background-color: #f4f4f4;
+margin-bottom: 10px;
+}
